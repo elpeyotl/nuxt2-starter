@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
@@ -20,22 +20,5 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
 # nuxt-starter2.0
-# nuxt-starter2.0
-# nuxt-starter2.0
-# nuxt-starter2.0
-# nuxt-starter2.0
-# nuxt-starter2.0
-# nuxt-2-starter
-# nuxt-2-starter
-# nuxt-2-starter
-# nuxt-2-starter
-# nuxt2starter
-# nuxt2starter
-# StarterNuxtTemplate
-# Nuxt2Starter
-# Nuxt2Starter
-# Nuxt2Starter
-# Nuxt2Starter
-# nuxt2-starter
-# nuxt2-starter
